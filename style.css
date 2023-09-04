@@ -60,6 +60,7 @@ nav ul li a:hover{
 
 #theme-icon{
     width: 2.4rem;
+    cursor: pointer;
 }
 
 .main{
